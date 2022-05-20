@@ -1,6 +1,9 @@
 # TicTacToe
-tic-tac-toe game, using a graphic interface written in java swing
 
+## tic-tac-toe game, using a graphic interface written in java swing
+
+includes: user registration system, result rankings, tournament possibility, saving the state of the current game, self-created animated GUI components, the possibility of custom gameplay on two-dimensional 3x3, 4x4 and three-dimensional 3x3x3, 4x4x4 boards
+------
 Graphic User Interface
 
 ![2022-05-20_13-25-47_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/77066408/169520556-04bc0951-7af3-473d-8d37-32b68d2d8d45.gif)
