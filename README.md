@@ -2,7 +2,7 @@
 
 ## tic-tac-toe game, using a graphic interface written in java swing
 
-includes: user registration system, result rankings, tournaments, saving the state of the current game, self-created unique animated GUI components, the possibility of custom gameplay on two-dimensional 3x3, 4x4 and three-dimensional 3x3x3, 4x4x4 boards
+includes: user registration system, result rankings, tournaments, saving the state of the current game, self-created unique animated GUI components and licensed Music/Sounds, the possibility of custom gameplay on two-dimensional 3x3, 4x4 and three-dimensional 3x3x3, 4x4x4 boards
 ------
 Graphic User Interface
 
